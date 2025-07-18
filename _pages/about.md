@@ -10,7 +10,7 @@ redirect_from:
 
 I'm a second year postgraduate student from [Institute of Medical Technology](https://imt.bjmu.edu.cn/), [Peking University Health Science Center](https://www.bjmu.edu.cn/). My research interest includes radiation oncology, radiotherapt treatment planning, robustness evaluation and optimization.
 
-I am very fortunate to be advised by [Prof. Hao Wu] (https://imt.bjmu.edu.cn/xsy/szll/yjsds/) and [Dr. Ruoxi Wang](mailto:rwang@bjmu.edu.cn) from department of radiation oncology, Beijing Caner Hospital.
+I am very fortunate to be advised by Prof. Hao Wu and [Dr. Ruoxi Wang](mailto:rwang@bjmu.edu.cn) from department of radiation oncology, Beijing Caner Hospital.
 
 You can find my CV here:[Tong Zhang's Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
 
