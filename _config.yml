@@ -13,7 +13,7 @@ title                    : "Tong Zhang / Personal Homepage"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
-url                      : https://tzhang-nb.github.io
+url                      : https://tzhang-nb.github.io/
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "tzhang-nb/tzhang-nb.github.io"
 
