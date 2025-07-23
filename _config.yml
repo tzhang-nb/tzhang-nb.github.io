@@ -22,7 +22,7 @@ repository               : "tzhang-nb/tzhang-nb.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "Selfie.png"
+  avatar           : "paragraph-indent.png"
   name             : "Tong Zhang"
   pronouns         : # example: "she/her"  
   bio              : "Hello, there! I'm Tong Zhang"
