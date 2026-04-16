@@ -25,11 +25,11 @@ author:
   avatar           : "avatar.png"
   name             : "Tong Zhang"
   pronouns         : # example: "she/her"  
-  bio              : "Hello, there! I'm Tong Zhang"
+  bio              :
   location         :
   employer         : "Peking University"
   uri              : # URL
-  email            : "Tong.Zhang@UTSouthwestern.edu"
+  email            : "tong.zhang@utsouthwestern.edu"
 
   # Academic websites
   academia         : # URL
