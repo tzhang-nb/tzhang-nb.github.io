@@ -26,10 +26,10 @@ author:
   name             : "Tong Zhang"
   pronouns         : # example: "she/her"  
   bio              : "Hello, there! I'm Tong Zhang"
-  location         : "Beijing, China"
+  location         :
   employer         : "Peking University"
   uri              : # URL
-  email            : "2311210774@stu.pku.edu.cn" 
+  email            : "Tong.Zhang@UTSouthwestern.edu"
 
   # Academic websites
   academia         : # URL
