@@ -36,10 +36,10 @@ author:
   arxiv            : # URL - Update with the correct link to your profile
   googlescholar    : #"https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
   impactstory      : # URL
-  orcid            : # URL
+  orcid            : "https://orcid.org/0009-0004-3845-7142"
   semantic         : # URL
   pubmed           : # URL
-  researchgate     : # URL
+  researchgate     : "https://www.researchgate.net/profile/Tong-Zhang-160?ev=hdr_xprf"
   scopus           : # URL
 
   # Repositories and software development
@@ -61,7 +61,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : "tong-zhang-a08a68371"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
