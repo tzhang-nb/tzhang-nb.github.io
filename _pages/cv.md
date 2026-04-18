@@ -9,6 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D. in Medical Physics, The University of Texas Southwestern Medical Center, 2031 (expected)
+* M.S. in The Physics of Radiotherapy, Peking University, 2026
+* B.S. in Physics, Wuhan University, 2023
