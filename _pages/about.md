@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Hello everyone! My name is Tong Zhang. I am a third-year msater's student in Medical Physics at [Peking University Health Science Center](https://www.bjmu.edu.cn/). My research interests include treatment planning, robustness evaluation and optimization.
+Hello everyone! My name is Tong Zhang. I am a third-year master's student in Medical Physics at [Peking University Health Science Center](https://www.bjmu.edu.cn/). My research interests include treatment planning, robustness evaluation and optimization.
 
 I am fortunate to be advised by [Dr. Ruoxi Wang](https://www.researchgate.net/profile/Ruoxi-Wang-3/) and Prof. Hao Wu in the Department of Radiation Oncology at Beijing Cancer Hospital during my graduate research.
 
