@@ -12,9 +12,8 @@ I am fortunate to be advised by [Dr. Ruoxi Wang](https://www.researchgate.net/pr
 
 Starting soon, I will join UT Southwestern to pursue a PhD in Medical Physics.
 
-You can find my CV here: [Tong Zhang's Curriculum Vitae](../assets/CV_Tong Zhang.pdf).
+You can find my CV here: <a href="../assets/CV_Tong%20Zhang.pdf" target="_blank" rel="noopener noreferrer">Tong Zhang's Curriculum Vitae</a>.
 
-[Email](https://mail.google.com/mail/?view=cm&to=Tong.Zhang%40UTSouthwestern.edu)
-
+<a href="https://mail.google.com/mail/?view=cm&to=Tong.Zhang%40UTSouthwestern.edu" target="_blank" rel="noopener noreferrer">Email</a>
 
 
